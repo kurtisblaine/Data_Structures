@@ -1,0 +1,20 @@
+Prepended 1
+Prepended 2
+Prepended 3
+Your List: 3 -> 2 -> 1 -> NULL
+Apended 4
+Apended 5
+Apended 6
+Your List: 3 -> 2 -> 1 -> 4 -> 5 -> 6 -> NULL
+Succesfully removed the front of the list
+Your List: 2 -> 1 -> 4 -> 5 -> 6 -> NULL
+Succesfully removed the front of the list
+Your List: 1 -> 4 -> 5 -> 6 -> NULL
+Succesfully removed the front of the list
+Your List: 4 -> 5 -> 6 -> NULL
+Succesfully removed the front of the list
+Your List: 5 -> 6 -> NULL
+Succesfully removed the front of the list
+Your List: 6 -> NULL
+Succesfully removed the front of the list
+Your List: NULL

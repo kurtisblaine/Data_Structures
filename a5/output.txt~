@@ -1,0 +1,17 @@
+Added 20 to the tree
+Added 30 to the tree
+Added 10 to the tree
+Added 25 to the tree
+Added 29 to the tree
+Added 23 to the tree
+Added 56 to the tree
+Added 89 to the tree
+Added 4 to the tree
+Added 33 to the tree
+In order traversal: 4 10 20 23 25 29 30 33 56 89
+Post order traversal: 4 10 23 29 25 33 89 56 30 20
+Pre order traversal: 20 10 4 30 25 23 29 56 33 89
+Found 20 in the tree
+Found 56 in the tree
+Found 10 in the tree
+Failed to find 99 in the tree
